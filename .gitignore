@@ -1,0 +1,10 @@
+.DS_Store
+node_modules
+
+# These are compiled from sass
+public/stylesheets/css
+
+# This is built by Webpack
+public/javascripts/bundle.js 
+
+public/.sass-cache
